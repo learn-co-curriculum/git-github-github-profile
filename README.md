@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Explain how to create a professional-level GitHub profile
-- Practice answering questions about your code
+- Create a professional-level GitHub profile
+- Answer interview-style questions about your code
 
 ## Introduction
 
