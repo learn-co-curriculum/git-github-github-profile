@@ -25,7 +25,7 @@ At a minimum, your profile should include the following;
 
 - Photo: how formal your photo needs to be will depend to some extent on the
   industry you want to get into — a formal photo will be more appropriate with a
-  big financial services company than with than a tech startup). Regardless of
+  big financial services company than with than a tech startup. Regardless of
   the industry, however, make sure it's professional.
 - Bio: here you can focus on your technical skills and knowledge, more so than
   you probably would on LinkedIn.
@@ -81,8 +81,9 @@ particular type of job you're interested in (e.g., front end vs. back end).
 Choosing repos to pin:
 
 - Make sure the repos are high quality: they should not be broken or buggy, and
-  the code should be clean and DRY. It is better to have a small number of high
-  quality pinned repos than a lot of repos of lower quality.
+  the code should be clean and [DRY][] (Don't Repeat Yourself). It is better to
+  have a small number of high quality pinned repos than a lot of repos of lower
+  quality.
 - Make sure there's at least one that you've contributed to recently.
 - Include projects you've worked on rather than labs or tutorials.
 
@@ -108,8 +109,8 @@ All pinned repos should have:
   - Variables should have names that describe the data they store, and functions
     should have names that describe what they are doing. Do not use comments in
     place of good naming conventions!
-  - Code should be DRY (Don't Repeat Yourself). Use helper functions for tasks
-    that are performed more than once. Remove code that is not being used.
+  - Code should be [DRY][]. Use helper functions for tasks that are performed
+    more than once. Remove code that is not being used.
   - Code should be conscientious with data: you should not have unnecessary fetch
     calls, or pass or store data that isn't needed.
   - There should be a good balance between making your code tight and keeping it
@@ -170,3 +171,5 @@ start working on it, the better off you'll be!
 ## Additional Resources
 
 - [Flatiron School Webinar: What Makes a Strong GitHub?](https://www.youtube.com/watch?v=jUYQPI2RUpw)
+
+[DRY]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
